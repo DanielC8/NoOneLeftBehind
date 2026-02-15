@@ -1,7 +1,7 @@
 [gd_scene load_steps=20 format=3 uid="uid://c5fsfjryjstpu"]
 
 [ext_resource type="Script" path="res://level.gd" id="1_vonw3"]
-[ext_resource type="Texture2D" uid="uid://bfi64bswnjlpq" path="res://brickss.png" id="2_035vj"]
+[ext_resource type="Texture2D" uid="uid://bfi64bswnjlpq" path="res://art/brickss.png" id="2_035vj"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_oi3di"]
 size = Vector2(2017, 83)
